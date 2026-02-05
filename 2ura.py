@@ -9,7 +9,7 @@
 
 # povprecje visin dijakov v razredu 
 
-visine = [180, 178, 160, 177, 187, 188] # seznam celih stevil / intiger list
+visine = [180, 178, 160, 177, 187, 188] # seznam celih stevil / intiger list / altgr +f za oklepaj []
 print(visine)
 # dostop do indeksev seznama
 print(visine[0])
