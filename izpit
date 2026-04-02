@@ -1,9 +1,9 @@
 Ime = "Ana"
-tocke =60
+tocke =82
 
 if 90 <= tocke <= 100:
     ocena = 5
-    Besedno = "odlično"
+    besedno = "odlično"
 elif 75 <= tocke <= 89:
     ocena = 4
     besedno = "prav dobro"
