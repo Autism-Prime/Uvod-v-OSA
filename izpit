@@ -1,0 +1,20 @@
+Ime = "Ana"
+tocke =60
+
+if 90 <= tocke <= 100:
+    ocena = 5
+    Besedno = "odlično"
+elif 75 <= tocke <= 89:
+    ocena = 4
+    besedno = "prav dobro"
+elif 60 <= tocke <= 74:
+    ocena = 3
+    besedno = "dobro"
+elif 50 <= tocke <= 59:
+    ocena = 2
+    besedno = "zadostno"
+else:
+    ocena = 1
+    besedno = "nezadostno"
+
+print(f"{Ime}, tvoja ocena je {ocena}, ({besedno}).")
